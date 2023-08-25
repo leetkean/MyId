@@ -1,0 +1,2 @@
+# MyId
+Strongly typed IDs.
